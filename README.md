@@ -1,4 +1,4 @@
-# webdriver-highlighter
+# webdriver-highlighter [![Gem Version](https://badge.fury.io/rb/webdriver-highlighter.png)](http://badge.fury.io/rb/webdriver-highlighter)
 
 Automatically highlights element (changes it background color for a moment) before you click it or change its value.
 
