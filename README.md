@@ -49,6 +49,11 @@ Capybara.register_driver :selenium do |app|
 end
 ```
 
+## Contributors
+
+* [Alex Rodionov](https://github.com/p0deje)
+* [Sasha Koss](https://github.com/kossnocorp)
+
 ## Contributing
 
 1. Fork it ( http://github.com/p0deje/webdriver-highlighter/fork )
